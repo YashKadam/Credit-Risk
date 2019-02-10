@@ -21,8 +21,8 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 
 Data:
-Variable	            Description
 
+Variable	   -----    Description
 
 Loan_ID      -----    Unique Loan ID
 
