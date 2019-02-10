@@ -24,7 +24,7 @@ Data:
 Variable	            Description
 
 
-Loan_ID	              Unique Loan ID
+Loan_ID      -----    Unique Loan ID
 
 Gender	              Male/ Female
 
